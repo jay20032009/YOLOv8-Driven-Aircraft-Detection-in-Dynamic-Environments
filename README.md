@@ -29,7 +29,7 @@ The project includes steps for data preprocessing, model training, and evaluatio
 3. **Run the main script:**
    
    ```bash
-   python detect_aircraft.py
+   python Aircraft_Detector.ipynb.ipynb
 
 ## How to Use
 
