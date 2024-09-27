@@ -1,0 +1,36 @@
+
+#path: C:\Users\jayan\OneDrive\Desktop\Yolo1
+#train: C:\Users\jayan\OneDrive\Desktop\Yolo1\images\train
+#val: C:\Users\jayan\OneDrive\Desktop\Yolo1\images\train
+
+
+path: '/content/gdrive/MyDrive/DL_YOLO_Airplane/data' # dataset root dir
+train: /content/gdrive/MyDrive/DL_YOLO_Airplane_Detection/data/images/train  # train images (relative to 'path')
+val: /content/gdrive/MyDrive/DL_YOLO_Airplane_Detection/data/images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: A220-100
+  1: A220-300
+  2: A320
+  3: A321
+  4: A350-900
+  5: A350-1000
+  6: A340
+  7: A380-800
+  8: B727
+  9: B737-800
+  10: B737 MAX
+  11: B747-8
+  12: B747F
+  13: B757
+  14: B767
+  15: B777-300ER
+  16: B777X
+  17: B787-8
+  18: B787-9
+  19: A330-200
+  20: A330-300
+  21: A330-900
+  22: A300
+  23: A319
